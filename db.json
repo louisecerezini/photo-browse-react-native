@@ -39,14 +39,14 @@
     {
       "id": "3",
       "title": "Forest Retreat",
-      "photos": 22,
+      "photos": 14,
       "image": "../assets/images/forest_retreat.jpg",
       "bgColor": "#bbbbbb"
     },
     {
       "id": "4",
       "title": "Spring Blossoms",
-      "photos": 30,
+      "photos": 23,
       "image": "../assets/images/spring_blossoms.jpg",
       "bgColor": "red"
     },
@@ -127,15 +127,7 @@
         { "id": "11", "image": "https://picsum.photos/200/200?random=499" },
         { "id": "12", "image": "https://picsum.photos/200/200?random=537" },
         { "id": "13", "image": "https://picsum.photos/200/200?random=344" },
-        { "id": "14", "image": "https://picsum.photos/200/200?random=654" },
-        { "id": "15", "image": "https://picsum.photos/200/200?random=681" },
-        { "id": "16", "image": "https://picsum.photos/200/200?random=499" },
-        { "id": "17", "image": "https://picsum.photos/200/200?random=537" },
-        { "id": "18", "image": "https://picsum.photos/200/200?random=344" },
-        { "id": "19", "image": "https://picsum.photos/200/200?random=654" },
-        { "id": "20", "image": "https://picsum.photos/200/200?random=681" },
-        { "id": "21", "image": "https://picsum.photos/200/200?random=654" },
-        { "id": "22", "image": "https://picsum.photos/200/200?random=681" }
+        { "id": "14", "image": "https://picsum.photos/200/200?random=654" }
       ]
     },
     {
@@ -163,14 +155,7 @@
         { "id": "20", "image": "https://picsum.photos/200/200?random=681" },
         { "id": "21", "image": "https://picsum.photos/200/200?random=654" },
         { "id": "22", "image": "https://picsum.photos/200/200?random=681" },
-        { "id": "23", "image": "https://picsum.photos/200/200?random=499" },
-        { "id": "24", "image": "https://picsum.photos/200/200?random=537" },
-        { "id": "25", "image": "https://picsum.photos/200/200?random=344" },
-        { "id": "26", "image": "https://picsum.photos/200/200?random=654" },
-        { "id": "27", "image": "https://picsum.photos/200/200?random=681" },
-        { "id": "28", "image": "https://picsum.photos/200/200?random=654" },
-        { "id": "29", "image": "https://picsum.photos/200/200?random=681" },
-        { "id": "30", "image": "https://picsum.photos/200/200?random=681" }
+        { "id": "23", "image": "https://picsum.photos/200/200?random=499" }
       ]
     },
     {
