@@ -28,7 +28,7 @@
       "userId": 1,
       "title": "Summer Vacation",
       "photos": 24,
-      "image": "../assets/images/summer_vacation.jpg",
+      "image": "https://picsum.photos/id/100/200/200",
       "bgColor": "#ffdddd"
     },
     {
@@ -36,7 +36,7 @@
       "userId": 1,
       "title": "City Lights",
       "photos": 18,
-      "image": "../assets/images/city_lights.jpg",
+      "image": "https://picsum.photos/id/84/200/200",
       "bgColor": "#999999"
     },
     {
@@ -44,7 +44,7 @@
       "userId": 2,
       "title": "Forest Retreat",
       "photos": 14,
-      "image": "../assets/images/forest_retreat.jpg",
+      "image": "https://picsum.photos/id/83/200/200",
       "bgColor": "#bbbbbb"
     },
     {
@@ -52,7 +52,7 @@
       "userId": 3,
       "title": "Spring Blossoms",
       "photos": 23,
-      "image": "../assets/images/spring_blossoms.jpg",
+      "image": "https://picsum.photos/id/55/200/200",
       "bgColor": "red"
     },
     {
@@ -60,7 +60,7 @@
       "userId": 4,
       "title": "Mountain Adventures",
       "photos": 22,
-      "image": "../assets/images/mountain_adventures.jpg",
+      "image": "https://picsum.photos/id/29/200/200",
       "bgColor": "#ffdddd"
     }
   ],
