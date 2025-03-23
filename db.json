@@ -1,0 +1,204 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex Johnson",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jamie Lee",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Morgan Smith",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Taylor Brown",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg"
+    }
+  ],
+  "albumsData": [
+    {
+      "id": "1",
+      "title": "Summer Vacation",
+      "photos": 24,
+      "image": "../assets/images/summer_vacation.jpg",
+      "bgColor": "#ffdddd"
+    },
+    {
+      "id": "2",
+      "title": "City Lights",
+      "photos": 18,
+      "image": "../assets/images/city_lights.jpg",
+      "bgColor": "#999999"
+    },
+    {
+      "id": "3",
+      "title": "Forest Retreat",
+      "photos": 22,
+      "image": "../assets/images/forest_retreat.jpg",
+      "bgColor": "#bbbbbb"
+    },
+    {
+      "id": "4",
+      "title": "Spring Blossoms",
+      "photos": 30,
+      "image": "../assets/images/spring_blossoms.jpg",
+      "bgColor": "red"
+    },
+    {
+      "id": "5",
+      "title": "Mountain Adventures",
+      "photos": 22,
+      "image": "../assets/images/mountain_adventures.jpg",
+      "bgColor": "#ffdddd"
+    }
+  ],
+  "albumsPhotos": [
+    {
+      "albumId": "1",
+      "photos": [
+        { "id": "1", "image": "https://picsum.photos/200/200?random=861" },
+        { "id": "2", "image": "https://picsum.photos/200/200?random=827" },
+        { "id": "3", "image": "https://picsum.photos/200/200?random=480" },
+        { "id": "4", "image": "https://picsum.photos/200/200?random=845" },
+        { "id": "5", "image": "https://picsum.photos/200/200?random=798" },
+        { "id": "6", "image": "https://picsum.photos/200/200?random=569" },
+        { "id": "7", "image": "https://picsum.photos/200/200?random=745" },
+        { "id": "8", "image": "https://picsum.photos/200/200?random=673" },
+        { "id": "9", "image": "https://picsum.photos/200/200?random=547" },
+        { "id": "10", "image": "https://picsum.photos/200/200?random=237" },
+        { "id": "11", "image": "https://picsum.photos/200/200?random=629" },
+        { "id": "12", "image": "https://picsum.photos/200/200?random=546" },
+        { "id": "13", "image": "https://picsum.photos/200/200?random=557" },
+        { "id": "14", "image": "https://picsum.photos/200/200?random=709" },
+        { "id": "15", "image": "https://picsum.photos/200/200?random=998" },
+        { "id": "16", "image": "https://picsum.photos/200/200?random=325" },
+        { "id": "17", "image": "https://picsum.photos/200/200?random=87" },
+        { "id": "18", "image": "https://picsum.photos/200/200?random=884" },
+        { "id": "19", "image": "https://picsum.photos/200/200?random=508" },
+        { "id": "20", "image": "https://picsum.photos/200/200?random=181" },
+        { "id": "21", "image": "https://picsum.photos/200/200?random=440" },
+        { "id": "22", "image": "https://picsum.photos/200/200?random=171" },
+        { "id": "23", "image": "https://picsum.photos/200/200?random=311" },
+        { "id": "24", "image": "https://picsum.photos/200/200?random=881" }
+      ]
+    },
+    {
+      "albumId": "2",
+      "photos": [
+        { "id": "1", "image": "https://picsum.photos/200/200?random=164" },
+        { "id": "2", "image": "https://picsum.photos/200/200?random=198" },
+        { "id": "3", "image": "https://picsum.photos/200/200?random=382" },
+        { "id": "4", "image": "https://picsum.photos/200/200?random=516" },
+        { "id": "5", "image": "https://picsum.photos/200/200?random=309" },
+        { "id": "6", "image": "https://picsum.photos/200/200?random=920" },
+        { "id": "7", "image": "https://picsum.photos/200/200?random=761" },
+        { "id": "8", "image": "https://picsum.photos/200/200?random=201" },
+        { "id": "9", "image": "https://picsum.photos/200/200?random=560" },
+        { "id": "10", "image": "https://picsum.photos/200/200?random=231" },
+        { "id": "11", "image": "https://picsum.photos/200/200?random=541" },
+        { "id": "12", "image": "https://picsum.photos/200/200?random=869" },
+        { "id": "13", "image": "https://picsum.photos/200/200?random=812" },
+        { "id": "14", "image": "https://picsum.photos/200/200?random=726" },
+        { "id": "15", "image": "https://picsum.photos/200/200?random=53" },
+        { "id": "16", "image": "https://picsum.photos/200/200?random=79" },
+        { "id": "17", "image": "https://picsum.photos/200/200?random=425" },
+        { "id": "18", "image": "https://picsum.photos/200/200?random=866" }
+      ]
+    },
+    {
+      "albumId": "3",
+      "photos": [
+        { "id": "1", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "2", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "3", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "4", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "5", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "6", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "7", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "8", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "9", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "10", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "11", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "12", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "13", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "14", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "15", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "16", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "17", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "18", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "19", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "20", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "21", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "22", "image": "https://picsum.photos/200/200?random=681" }
+      ]
+    },
+    {
+      "albumId": "4",
+      "photos": [
+        { "id": "1", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "2", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "3", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "4", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "5", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "6", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "7", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "8", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "9", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "10", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "11", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "12", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "13", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "14", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "15", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "16", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "17", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "18", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "19", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "20", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "21", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "22", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "23", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "24", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "25", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "26", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "27", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "28", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "29", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "30", "image": "https://picsum.photos/200/200?random=681" }
+      ]
+    },
+    {
+      "albumId": "5",
+      "photos": [
+        { "id": "1", "image": "https://picsum.photos/200/200?random=805" },
+        { "id": "2", "image": "https://picsum.photos/200/200?random=55" },
+        { "id": "3", "image": "https://picsum.photos/200/200?random=166" },
+        { "id": "4", "image": "https://picsum.photos/200/200?random=433" },
+        { "id": "5", "image": "https://picsum.photos/200/200?random=793" },
+        { "id": "6", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "7", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "8", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "9", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "10", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "11", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "12", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "13", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "14", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "15", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "16", "image": "https://picsum.photos/200/200?random=499" },
+        { "id": "17", "image": "https://picsum.photos/200/200?random=537" },
+        { "id": "18", "image": "https://picsum.photos/200/200?random=344" },
+        { "id": "19", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "20", "image": "https://picsum.photos/200/200?random=681" },
+        { "id": "21", "image": "https://picsum.photos/200/200?random=654" },
+        { "id": "22", "image": "https://picsum.photos/200/200?random=681" }
+      ]
+    }
+  ]
+}
